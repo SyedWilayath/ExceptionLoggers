@@ -1,0 +1,28 @@
+  
+[INFO ] 2020-02-24 22:44:10.294 [main] App - main class started executing
+[INFO ] 2020-02-24 22:44:10.297 [main] App - class construct Cost started
+[INFO ] 2020-02-24 22:44:10.297 [main] App - enter the area of the house(In square feets)
+[INFO ] 2020-02-24 22:44:18.477 [main] App - Welcome to My Constructions \nPlease Select the type of material from the following 
+1.standard materials 
+2.above standard materials 
+3.high standard material 
+4.Fully automated House
+[INFO ] 2020-02-24 22:44:20.125 [main] App - Estimated Cost 240000 ruppes
+[INFO ] 2020-02-24 22:44:36.290 [main] App - main class started executing
+[INFO ] 2020-02-24 22:44:36.293 [main] App - class construct Cost started
+[INFO ] 2020-02-24 22:44:36.307 [main] App - enter the area of the house(In square feets)
+[INFO ] 2020-02-24 22:44:38.925 [main] App - Welcome to My Constructions \nPlease Select the type of material from the following 
+1.standard materials 
+2.above standard materials 
+3.high standard material 
+4.Fully automated House
+[ERROR] 2020-02-24 22:44:41.981 [main] App - choose valid type of material
+[INFO ] 2020-02-24 22:44:47.225 [main] App - main class started executing
+[INFO ] 2020-02-24 22:44:47.228 [main] App - class construct Cost started
+[INFO ] 2020-02-24 22:44:47.228 [main] App - enter the area of the house(In square feets)
+[INFO ] 2020-02-24 22:44:50.541 [main] App - Welcome to My Constructions \nPlease Select the type of material from the following 
+1.standard materials 
+2.above standard materials 
+3.high standard material 
+4.Fully automated House
+[INFO ] 2020-02-24 22:44:58.301 [main] App - Estimated Cost 375000 ruppes

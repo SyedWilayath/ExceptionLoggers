@@ -1,0 +1,22 @@
+[INFO ] 2020-02-24 21:28:43.699 [main] App - Main App Execution Started
+[INFO ] 2020-02-24 21:28:43.702 [main] App - class Calculate started
+[INFO ] 2020-02-24 21:28:43.702 [main] App - enter the value of principle amount
+[INFO ] 2020-02-24 21:28:49.270 [main] App - enter the value of time period(in years)
+[INFO ] 2020-02-24 21:28:57.574 [main] App - enter the rate of interest(in %)
+[INFO ] 2020-02-24 21:28:59.334 [main] App - Choose 
+1.Simple Interest
+2.Compound Interest
+[INFO ] 2020-02-24 21:29:00.710 [main] App - 
+The Intrest amount is 600.0 Rupees
+[INFO ] 2020-02-24 22:41:53.289 [main] App - Main App Execution Started
+[INFO ] 2020-02-24 22:41:53.291 [main] App - class Calculate started
+[INFO ] 2020-02-24 22:41:53.313 [main] App - enter the value of principle amount
+[INFO ] 2020-02-24 22:42:02.189 [main] App - enter the value of time period(in years)
+[INFO ] 2020-02-24 22:42:03.532 [main] App - enter the rate of interest(in %)
+[INFO ] 2020-02-24 22:42:06.156 [main] App - Choose 
+1.Simple Interest
+2.Compound Interest
+[INFO ] 2020-02-24 22:42:07.964 [main] App - 
+enter the no of times interest is compunded per year
+[INFO ] 2020-02-24 22:42:12.573 [main] App - The interest amount is 936.8527268436083 Rupees
+© 2020 GitHub, Inc.
